@@ -1,5 +1,5 @@
-lista de la compra
+Lista de la compra
 ==================
 Azucar
-Leche
+Agua
 Manzanas
